@@ -6,7 +6,8 @@ To calculate the Codon Adaptation Index (CAI) value for the user-provided CDS se
 `python CAIcalculater.py ATGATT`
 
 #### output:
-CAI of coding sequence:\n
+CAI of coding sequence:
+
 0.6534936920110792
 
 
